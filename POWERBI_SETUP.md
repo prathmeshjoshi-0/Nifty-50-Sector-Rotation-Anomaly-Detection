@@ -87,11 +87,3 @@ Most Volatile Stock =
     )
 ```
 
----
-
-## Screenshots to Take for GitHub
-After building all 4 pages, take screenshots and save as:
-- `dashboard/screenshots/sector_overview.png`
-- `dashboard/screenshots/volatility.png`
-- `dashboard/screenshots/sector_rotation.png`
-- `dashboard/screenshots/anomaly_log.png`
