@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="1) SECTOR OVERVIEW SS" src="https://github.com/user-attachments/assets/cbc1067c-2f05-426a-8074-f58b7c7f4cf7" />
 # Nifty 50 Sector Rotation & Anomaly Detection
 
 ## Overview
